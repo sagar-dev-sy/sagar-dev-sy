@@ -60,16 +60,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sagard-dev&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## ✍️ Developer Quote
 
